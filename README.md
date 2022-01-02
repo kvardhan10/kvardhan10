@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (right now-nothing)👨‍💻
 - 📫 How to reach me 📧
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kvardhan10&show_icons=true)
 ## 2. Most Used Languages
