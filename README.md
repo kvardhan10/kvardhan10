@@ -8,7 +8,7 @@
 
 
 ## My GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kvardhan10&show_icons=true)  
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kvardhan10&show_icons=true)   -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kvardhan10&theme=blue-green)
 
