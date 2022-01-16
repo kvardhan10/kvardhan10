@@ -22,7 +22,9 @@
 
 <!-- ![](https://starchart.cc/{username}/{repo}.svg) -->
 
+![](https://forthebadge.com/images/badges/made-with-markdown.svg)
 
+![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 <!---
 kvardhan10/kvardhan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
