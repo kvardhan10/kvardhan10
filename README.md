@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Data Science and WebDev🌐
 - 🌱 I’m currently learning ML📊
 - 💞️ I’m looking to collaborate on (right now-nothing)👨‍💻
-- 📫 How to reach me🪶
+- 📫 How to reach me 🕊️
 
 
 
