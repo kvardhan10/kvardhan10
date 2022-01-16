@@ -8,9 +8,13 @@
 
 
 ## My GitHub Stats
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kvardhan10&show_icons=true)   -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kvardhan10&show_icons=true)   --> 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kvardhan10&theme=blue-green)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kvardhan10)](https://git.io/streak-stats) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kvardhan10&row=1&title=Joined2020,Commits,Repositories&theme=alduin&margin-w=20&no-bg=true)](https://github.com/kvardhan10/github-profile-trophy)
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=kvardhan10) -->
 
